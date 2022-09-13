@@ -27,6 +27,10 @@ True   True   True
 
 
 
+This is a heading2
+=================
+
+
 .. toctree::
    :maxdepth: 2
 
@@ -35,3 +39,5 @@ True   True   True
    datatypes
    numeric
    (many more documents listed here)
+   
+ 
